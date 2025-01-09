@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://peracikjp.github.io/sitemap.xml
